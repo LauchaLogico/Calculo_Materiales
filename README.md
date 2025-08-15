@@ -20,5 +20,14 @@ $materiales.py:$ Lista de materiales y cantidad necesaria por metro cuadrado \
 $mercadolibre.py:$ Coneccion con mercado libre para buscar precios (actualmente en desarrollo) \
 $requirements.txt:$ requerimientos para que todo funcione correctamente \
 
+## Tecnología
 
+El programa se generó uyilizando lenguaje Python. Las librerias necesarias para que todo funcione correctamente son las siguientes: \
+fastapi \
+uvicorn \
+requests \
+beautifulsoup4 \
+pydantic \
+
+Para la visualización de la aplicacion se utilizó la página de [Streamlit](https://streamlit.io/)
 
